@@ -15,34 +15,29 @@ const Footer = () => {
             </div>
             <div className="flex flex-col items-center justify-center sm:ml-8 md:ml-32 lg:ml-64">
               <div>© DealMilao</div>
-              <div>Created by Manas Singhal</div>
+              <div>Created by Nihal Dwivedi</div>
             </div>
           </div>
           <div className="flex space-x-4 text-xl text-white">
             <a
-              href="https://www.linkedin.com/in/manas-singhal-1878082a7/"
+              href="https://www.linkedin.com/in/nihal-dwivedi-06a62428a/"
               className="w-10 h-10 rounded-full bg-red-700 hover:bg-red-600 flex items-center justify-center"
             >
               <FaLinkedin />
             </a>
             <a
-              href="https://www.instagram.com/manas._.s_/"
+              href="https://www.instagram.com/dwivedinihal_/?hl=en"
               className="w-10 h-10 rounded-full bg-red-700 hover:bg-red-600 flex items-center justify-center"
             >
               <FaInstagram />
             </a>
             <a
-              href="https://github.com/singhalmanas23"
+              href="https://github.com/dwivedinihal"
               className="w-10 h-10 rounded-full bg-red-700 hover:bg-red-600 flex items-center justify-center"
             >
               <FaGithub />
             </a>
-            <a
-              href="mailto:singhalmanas34@gmail.com?subject=Your%20Subject&body=Your%20Message"
-              className="w-10 h-10 rounded-full bg-red-700 hover:bg-red-600 flex items-center justify-center"
-            >
-              <IoMdMail />
-            </a>
+            
           </div>
         </div>
       </div>
